@@ -2,12 +2,19 @@
 A simple and responsive To-Do List app built with HTML, CSS, and JavaScript.
 
 # Features
-Add tasks with a single click.
-Mark tasks as completed.
-Delete tasks with ease.
-Stores tasks in local storage so they persist on refresh.
+1.Add tasks with a single click.
+
+2.Mark tasks as completed.
+
+3.Delete tasks with ease.
+
+4.Stores tasks in local storage so they persist on refresh.
+
 # Usage
-Open the app.
-Type in a task and hit "Add" to include it in your list.
-Click on a task to mark it as completed.
-Click the delete icon to remove tasks as needed.
+1.Open the app.
+
+2.Type in a task and hit "Add" to include it in your list.
+
+3.Click on a task to mark it as completed.
+
+4.Click the delete icon to remove tasks as needed.
